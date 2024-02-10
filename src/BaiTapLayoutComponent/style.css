@@ -1,0 +1,19 @@
+.card-img {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 500px !important;
+    height: 325px !important;
+    margin: 0 auto;
+    font-size: 36px;
+    color:gray;
+}
+
+.card-title{
+    font-size : 24px
+}
+
+#navbarSupportedContent{
+    justify-content: end;
+}
